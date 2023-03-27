@@ -1,6 +1,7 @@
 # nodejs_ecommerce_api
-
-Product API app developed using the node js, mongoDB and using described below technologies.
+## About
+This is a simple backend node js api service where we can implement CRUD operation on the product. You can use the link to access it or clone the repo. Feel free to use.
+## Product API app developed using the node js, mongoDB and using described below technologies.
 
 ## Prerequisites
 
