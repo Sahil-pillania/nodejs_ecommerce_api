@@ -1,6 +1,7 @@
 {
   "name": "ecommerce_api_app",
   "version": "1.0.0",
+  "node": "18.14.0",
   "description": "This is a ecommerce backend api app which you can connect through postman or any other frontend.",
   "main": "index.js",
   "scripts": {
